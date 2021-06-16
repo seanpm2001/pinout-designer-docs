@@ -10,7 +10,7 @@
 
 # Overview #
 
-[Pinout Designer application](https://pinout.torizon.io/#/) is a tool designed for pin muxing of Toradex SoC modules, providing the ability to compare the interfaces of different module types within the same family (Apalis, Colibri and Verdin). This document highlights some of the features of the application to help you get started as quickly as possible. You can access the latest version of the application at https://pinout.torizon
+[Pinout Designer application](https://pinout.torizon.io/#/) is a tool designed for pin muxing of Toradex SoC modules, providing the ability to compare the interfaces of different module types within the same family (Apalis, Colibri and Verdin). This document highlights some of the features of the application to help you get started as quickly as possible. You can access the latest version of the application at https://pinout.torizon.io
 
 # System Requirements #
 
